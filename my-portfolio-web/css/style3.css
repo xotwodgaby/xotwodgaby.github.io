@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700');
+
+* {
+  margin: 30px;
+  padding: 0;
+  color: ##6B6B6B
+}
+h1 {
+  background-color: gray;
+  font-size: 45px;
+  position: absolute;
+  left:0;
+
+
+
+
+}
+
+p {
+  background-color:white;
+  text-align: center;
+}
+body {
+
+background-image: url(https://c.wallhere.com/photos/a9/b3/bright_abstract_trippy_LSD_crystal-52482.png!d);
+  font-family: 'Yanone Kaffeesatz',monospace;
+  padding: 5px;
+}
+#animation {
+
+  position: fixed;
+  z-index: -777;
+  padding: 12px
+}
+#navigation {
+  position: absolute;
+  top:530px;
+  left: 250px;}
+iframe {
+  width: 100%;
+  height: 60vh;
+}
+
+ul {
+  position: absolute;
+  left: 100px;
+}
+
+.buttons{
+  float: centerpoint;
+  font-size: 30pt;
+  list-style-type:circle;
+  background: black;
+  padding-right: 15px;
+}
+.buttons a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
